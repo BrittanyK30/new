@@ -1,7 +1,6 @@
 # new
-# logger
 # Project Objective: 
-#
+#Create responsive photo gallery (possible landing page for later use).
 
 # Getting Started (details provided upon completion).
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. (details provided upon completion).
@@ -32,8 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 # Built With
 #HTML5
 #CSS3
-#ES6/7 JS
-
+#JS
 # Contributing
 #Not applicable at the current juncture. 
 
